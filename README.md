@@ -55,6 +55,20 @@ Além do aspecto social, o projeto também foi desenvolvido como forma de aprimo
 
 ---
 
+## 📸 Preview
+
+<br>**Tela Inicial**<br>
+<img width="540" height="1127" alt="image" src="https://github.com/user-attachments/assets/38594c65-c50f-49c5-8ba6-89c77956e300" />
+
+<br>**Dicas de reciclagem**<br>
+<img width="540" height="1126" alt="image" src="https://github.com/user-attachments/assets/e17f4f5a-637b-493c-8700-192a3713ee17" />
+
+<br>**EcoPontos mais próximos**<br>
+<img width="540" height="1122" alt="image" src="https://github.com/user-attachments/assets/85407627-f134-4ac7-8f8d-11a82230f3ce" />
+<br><br>*Vale ressaltar que a imagem do mapa Google não carregou porque estou em outra cidade, cursando a faculdade, e o projeto é apenas para Guarulhos!*
+
+---
+
 ## 👨‍💻 Autor
 
 - Brenno Gaspar Pinto
